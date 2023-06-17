@@ -1,1 +1,1 @@
-# PREDICTION-OF-USED-CAR-PRICES-USING-ARTIFICIAL-NEURAL-NETWORKS-AND-MACHINE-LEARNING
+Artificial neural networks (ANN) are software or algorithms that solve real life problems by imitating the human thinking and learning system. In this project we will be predicting the prices of cars using ANN and machine learning
